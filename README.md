@@ -2,9 +2,9 @@
 
 ### 💻 Backend Software Engineer | Analista de Datos | Especialista en Integraciones
 
-> 🚀 **Transformando reglas de negocio en arquitecturas escalables.**
-> 📊 **Especialista en desarrollo backend y flujos de analítica de datos.**
-> 🧠 **Apasionado por el código limpio, POO y la automatización estratégica.**
+* 🚀 **Transformando reglas de negocio en arquitecturas escalables.**
+* 📊 **Especialista en desarrollo backend y flujos de analítica de datos.**
+* 🧠 **Apasionado por el código limpio, POO y la automatización estratégica.**
 
 ---
 
