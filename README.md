@@ -29,7 +29,7 @@
 
 ### 🤝 Conecta conmigo
 
-<a href="https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/jason-rodriguez-alexdev/" target="_blank">
+<a href="https://www.linkedin.com/in/jason-rodriguez-alexdev/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25" height="25" />
 </a>
 
