@@ -11,7 +11,6 @@
 ### 📌 En qué estoy trabajando actualmente
 
 *   💼 Construyendo arquitecturas backend transaccionales (APIs REST) enfocadas en la integración de sistemas.
-*   📊 Diseñando flujos de limpieza y análisis de datos utilizando librerías avanzadas de Python (Pandas, NumPy).
 *   🏗️ Estructurando ecosistemas operativos corporativos y paneles de control automatizados en Notion.
 *   🌍 Desarrollando mis habilidades multilingües (Español Nativo, Inglés A2 e Italiano Básico).
 
