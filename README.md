@@ -29,5 +29,14 @@
 
 ### 🤝 Conecta conmigo
 
-*   🔗 **LinkedIn:** [[Enlace a tu perfil](https://www.linkedin.com/in/jason-rodriguez-alexdev/)]
-*   ✉️ **Email:** [rodriguezalejandro297@gmail.com]
+<ul>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" align="left" style="margin-right: 5px;" />
+    <strong>LinkedIn:</strong> <a href="TU_ENLACE_DE_LINKEDIN">linkedin.com/in/tu-perfil</a>
+  </li>
+  <br />
+  <li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="20" height="20" align="left" style="margin-right: 5px;" />
+    <strong>Email:</strong> <a href="mailto:rodriguezalejandro297@gmail.com">rodriguezalejandro297@gmail.com</a>
+  </li>
+</ul>
