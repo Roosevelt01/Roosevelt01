@@ -29,14 +29,10 @@
 
 ### 🤝 Conecta conmigo
 
-<ul>
-  <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" align="left" style="margin-right: 5px;" />
-    <strong>LinkedIn:</strong> <a href="TU_ENLACE_DE_LINKEDIN">linkedin.com/in/tu-perfil</a>
-  </li>
-  <br />
-  <li>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="20" height="20" align="left" style="margin-right: 5px;" />
-    <strong>Email:</strong> <a href="mailto:rodriguezalejandro297@gmail.com">rodriguezalejandro297@gmail.com</a>
-  </li>
-</ul>
+<a href="https://linkedin.com/in/tu-perfil" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25" height="25" />
+</a>
+
+<a href="mailto:rodriguezalejandro297@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="25" height="25" />
+</a>
